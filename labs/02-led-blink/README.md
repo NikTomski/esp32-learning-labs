@@ -35,19 +35,27 @@ The LED repeatedly turns on and off with a 500 ms delay between state changes.
 
 Activate the ESP-IDF environment:
 
-```source ~/.espressif/tools/activate_idf_v6.1.sh```
+```
+source ~/.espressif/tools/activate_idf_v6.1.sh
+```
 
 Navigate to the project directory:
 
-```cd labs/02-led-blink```
+```
+cd labs/02-led-blink
+```
 
 Build the project:
 
-```idf.py build```
+```
+idf.py build
+```
 
 Flash the firmware and open the serial monitor:
 
-```idf.py flash monitor```
+```
+idf.py flash monitor
+```
 
 ## Expected Result
 

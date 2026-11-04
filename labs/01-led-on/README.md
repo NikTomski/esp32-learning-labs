@@ -34,19 +34,27 @@ The LED turns on when the ESP32 starts and remains on.
 
 Activate the ESP-IDF environment:
 
-```source ~/.espressif/tools/activate_idf_v6.1.sh```
+```
+source ~/.espressif/tools/activate_idf_v6.1.sh
+```
 
 Navigate to the project directory:
 
-```cd labs/01-led-on```
+```
+cd labs/01-led-on
+```
 
 Build the project:
 
-```idf.py build```
+```
+idf.py build
+```
 
 Flash the firmware:
 
-```idf.py flash monitor```
+```
+idf.py flash monitor
+```
 
 ## Expected Result
 

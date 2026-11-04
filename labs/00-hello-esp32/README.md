@@ -24,19 +24,27 @@ The application prints a message to the serial monitor.
 
 Activate the ESP-IDF environment:
 
-```source ~/.espressif/tools/activate_idf_v6.1.sh```
+```
+source ~/.espressif/tools/activate_idf_v6.1.sh
+```
 
 Navigate to the project directory:
 
-```cd labs/00-hello-esp32```
+```
+cd labs/00-hello-esp32
+```
 
 Build the project:
 
-```idf.py build```
+```
+idf.py build
+```
 
 Flash the firmware and open the serial monitor:
 
-```idf.py flash monitor```
+```
+idf.py flash monitor
+```
 
 ## Expected Result
 

@@ -43,19 +43,27 @@ The button uses the ESP32 internal pull-up resistor.
 
 Activate the ESP-IDF environment:
 
-```source ~/.espressif/tools/activate_idf_v6.1.sh```
+```
+source ~/.espressif/tools/activate_idf_v6.1.sh
+```
 
 Navigate to the project directory:
 
-```cd labs/03-button-led```
+```
+cd labs/03-button-led
+```
 
 Build the project:
 
-```idf.py build```
+```
+idf.py build
+```
 
 Flash the firmware and open the serial monitor:
 
-```idf.py flash monitor```
+```
+idf.py flash monitor
+```
 
 ## Expected Result
 
