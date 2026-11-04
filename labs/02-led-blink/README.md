@@ -24,7 +24,7 @@ The LED repeatedly turns on and off with a 500 ms delay between state changes.
 
 ## Demo
 
-![LED blinking demonstration](images/02-led-blink.gif)
+![LED blinking demonstration](images/02-led-blink)
 
 ## Concepts
 

@@ -29,7 +29,7 @@ The button uses the ESP32 internal pull-up resistor.
 
 ## Demo
 
-![LED lights up when the button is pressed](images/03-button-led.gif)
+![LED lights up when the button is pressed](images/03-button-led)
 
 ## Concepts
 
