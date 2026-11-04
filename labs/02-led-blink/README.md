@@ -22,6 +22,10 @@ The LED repeatedly turns on and off with a 500 ms delay between state changes.
 | Anode (long leg) | GPIO25 through 220Ω resistor |
 | Cathode (short leg) | GND |
 
+## Demo
+
+![LED blinking demonstration](images/02-led-blink.gif)
+
 ## Concepts
 
 - GPIO output configuration

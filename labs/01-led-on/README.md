@@ -22,6 +22,8 @@ The LED turns on when the ESP32 starts and remains on.
 | Anode (long leg) | GPIO25 through 220Ω resistor |
 | Cathode (short leg) | GND |
 
+![LED lights up](images/01-led-on.jpg)
+
 ## Concepts
 
 - GPIO output configuration
